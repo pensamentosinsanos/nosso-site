@@ -3,3 +3,58 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.caixa {
+    width: 70%;
+    height:200px;
+    background-color: rgb(98, 151, 88);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#aguaviva {
+    width: 220px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    margin-right: 20px;
+}
+
+.titulo {
+    margin-left: 20px;
+}
+.divtitulo {
+    background-color: rgb(78, 120, 70);
+}
+
+.texto {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.botao1 {
+    margin-left:60%;
+    margin-top: 8%;
+    background-color: rgb(78, 120, 70);
+    padding: 2px;
+}
+.caixapequena {
+    width: 34%;
+    height:200px;
+    background-color: rgb(98, 151, 88);
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.titulo2 {
+    margin-left: 20px;
+    font-size: medium;
+}
+
+.botao2 {
+    margin-left:80%;
+    margin-top: 8%;
+    background-color: rgb(78, 120, 70);
+    padding: 2px;
+}
