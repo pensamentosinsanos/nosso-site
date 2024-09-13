@@ -57,6 +57,7 @@ body{
     height:212px;
     background-color: rgb(98, 151, 88);
     margin-top: 20px;
+    margin-left: 20px;
     
 }
 
@@ -92,8 +93,9 @@ body{
     width: 34%;
     height:270px;
     background-color: rgb(98, 151, 88);
-    margin-top: 200px;
+    margin-top: 20px;
     float: left;
+    margin-left: 20px;
 
 
 }
@@ -120,3 +122,4 @@ body{
 .lista {
     margin-left: 40px;
 }
+
