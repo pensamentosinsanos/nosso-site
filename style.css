@@ -13,12 +13,19 @@ header{
     background-image: url(https://images.ecycle.com.br/wp-content/uploads/2024/01/23173100/pexels-stephany-lorena-15859813-scaled.jpg.webp);
     background-size: 100%;
 }
-h1{
+header h1{
     color: white;
     font-size: 70px;
     margin-left: 22%;
     margin-top: 5%;
 }
+article{
+    width:80%;
+    float: left;
+    display: block;
+    height: auto;
+}
+
 .menu{
     list-style: none;
     border: 1px solid white;
@@ -46,7 +53,7 @@ body{
 
 .caixa {
     width: 70%;
-    height:200px;
+    height:212px;
     background-color: rgb(98, 151, 88);
     margin-top: 20px;
     margin-left: 20px;
@@ -73,10 +80,11 @@ body{
 }
 
 .botao1 {
-    margin-left:60%;
-    margin-top: 8%;
     background-color: rgb(78, 120, 70);
     padding: 2px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 27px;
 }
 .caixapequena {
     width: 34%;
