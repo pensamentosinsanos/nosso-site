@@ -109,3 +109,52 @@ body{
 .lista {
     margin-left: 40px;
 }
+aside{
+    display: block;
+    width: 25%;
+    height: 500px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: rgb(98, 151, 88);
+
+}
+#pesquisa{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 85%;
+}
+#maislidostextoback{
+    width: 86%;
+    height: 25px;
+    display: block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: rgb(78, 120, 70);
+}
+#textomaislidos{
+    margin-left: 10px;
+    font-size: larger;
+}
+#topicosmaislidos{
+    width: 86%;
+    height: 100px;
+    background-color: bisque;
+    display: block;
+    margin-left: 20px;
+}
+li{
+    margin-left: 20px
+}
+.quadradinhofoto{
+    margin-top: 10px;
+    display: block;
+    width: 40%;
+    height: 110px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+}
+#galeria{
+    margin-top: 10px;
+}
