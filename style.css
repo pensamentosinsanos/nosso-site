@@ -45,11 +45,12 @@ body{
 }
 
 .caixa {
+    display: block;
     width: 70%;
     height:200px;
     background-color: rgb(98, 151, 88);
     margin-top: 20px;
-    margin-left: 20px;
+    
 }
 
 #aguaviva {
@@ -62,6 +63,7 @@ body{
 
 .titulo {
     margin-left: 20px;
+    font-size: large;
 }
 .divtitulo {
     background-color: rgb(78, 120, 70);
@@ -82,9 +84,10 @@ body{
     width: 34%;
     height:270px;
     background-color: rgb(98, 151, 88);
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 200px;
     float: left;
+
+
 }
 
 .titulo2 {
