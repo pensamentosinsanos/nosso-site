@@ -40,3 +40,15 @@ aside{
 li{
     margin-left: 20px
 }
+.quadradinhofoto{
+    margin-top: 10px;
+    display: block;
+    width: 40%;
+    height: 110px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+}
+#galeria{
+    margin-top: 10px;
+}
