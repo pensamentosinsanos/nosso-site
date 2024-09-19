@@ -173,10 +173,11 @@ aside{
 #galeria{
     margin-top: 10px;
 }
-.footer {
-    height: 50px;
-    width: 100%;
+#footer {
     background-color: rgb(57, 38, 30);
     padding: 20px;
     color: white;
+    float: left;
+    width: 100%;
+    margin-top: 20px;
 }
